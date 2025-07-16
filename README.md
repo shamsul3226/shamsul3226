@@ -8,12 +8,16 @@ A curious frontend developer based in Malaysia, passionate about building clean,
 
 -  **Ez Cat-culator** – a themed calculator app built with HTML, JS, Tailwind & DaisyUI
 -  Exploring theme-switching techniques and chained operations for better UX
--  Learning to optimize project structures & workflows for scalable applications
-
+-  Learning to optimize project structures & workflows for scalable application
+  
+  <br>
+  
 - **Building Prototype MVP using no coding platform such as Lovable.dev and Bolt.new** 
 - Exploring the best method in generating prompt for these platforms to create my desired app
 - Learning to refactor manually from the source-code generated and tweak to my liking
-
+  
+  <br>
+  
 - **Learning New Language and Explore New Tools**
 - ***Front-End*** - Exploring Framework and Libraries like React, Next.js, Vue.js.
 - Learning new language like Python
