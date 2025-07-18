@@ -6,7 +6,7 @@ A curious frontend developer based in Malaysia, passionate about building clean,
 
 ## 💻 What I’m Working On
 
--  **Ez Cat-culator** – a themed calculator app built with HTML, JS, Tailwind & DaisyUI
+-  **Ez Cat-culator** – a themed calculator app built with HTML, JS & Tailwind CSS
 -  Exploring theme-switching techniques and chained operations for better UX
 -  Learning to optimize project structures & workflows for scalable application
   
@@ -32,7 +32,7 @@ A curious frontend developer based in Malaysia, passionate about building clean,
 
 ## 🚀 Skills & Interests
 
-- UI styling with Tailwind CSS & DaisyUI
+- UI styling with Tailwind CSS 
 - JavaScript DOM manipulation & event handling
 - Component-based design for modularity
 - Learning new language like Python and frameworks like next.js and vue.js
