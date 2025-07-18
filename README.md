@@ -11,10 +11,16 @@ A curious frontend developer based in Malaysia, passionate about building clean,
 -  Learning to optimize project structures & workflows for scalable application
   
   <br>
+
+-  **world-clock-live** –  a responsive timezone app with flag rendering, built using lovable.dev and tweaked using Tailwind CSS, React & TypeScript.
+-  Featuring modular components, theme-aware styling, and real-time country selection
+-  Learning to optimize rapid MVP prototyping and source-code tweaking
+  
+  <br>
   
 - **Building Prototype MVP using no coding platform such as Lovable.dev and Bolt.new** 
 - Exploring the best method in generating prompt for these platforms to create my desired app
-- Learning to refactor manually from the source-code generated and tweak to my liking
+- Learning to refactor manually from the source-code generated and tweak them to my liking
   
   <br>
   
