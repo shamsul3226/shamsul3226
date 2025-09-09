@@ -6,9 +6,9 @@ A curious frontend developer based in Malaysia, passionate about building clean,
 
 ## 💻 What I’m Working On
 
--  **Ez Cat-culator** – a themed calculator app built with HTML, JS & Tailwind CSS
--  Exploring theme-switching techniques and chained operations for better UX
--  Learning to optimize project structures & workflows for scalable application
+-  **note-app** – a light-weight note app, equipped with drag-and-drop feature and local storage persistance
+-  Exploring modern event handler such as drag-drop handler
+-  Learning to store and retrieve updated page data using localStorage to maintain state across sessions.
   
   <br>
 
